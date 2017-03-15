@@ -1,5 +1,6 @@
 # Human-Activity-Recognition-Using-Smartphones-Data-Set
 please refer to the CodeBook.pdf file which is a slightly edited version of the Rmd output.
+If you use R-Studio you can easily re-create / re-run the process of tidying the data with the actual Rmd file which is also included.
 
 The program is also included in the Rmd and the CodeBook created from it, the run-analysis.R is also included in the repository separately to conform the requirements.
 
